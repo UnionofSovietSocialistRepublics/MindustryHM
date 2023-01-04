@@ -3,7 +3,7 @@ captureWave: 10
 sector: 2
 difficulty: 1
 research: {
-parent: core-ruin
+parent: hellZero
 objectives: [
     {
       type: SectorComplete
