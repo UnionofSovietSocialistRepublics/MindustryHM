@@ -1,6 +1,6 @@
 planet: Serbulo
 captureWave: 10
-sector: 175
+sector: 1
 difficulty: 3
 parent: groundZero
 research: {
