@@ -1,6 +1,6 @@
-planet: serpulo
+planet: Baller
 captureWave: 10
-sector: 169
+sector: 175
 difficulty: 3
 parent: groundZero
 research: {
