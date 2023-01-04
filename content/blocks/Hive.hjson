@@ -1,0 +1,18 @@
+type: CoreBlock
+health: 12575
+itemCapacity: 15000
+size: 5
+unitType: Vela
+unitCapModifier: 40
+research: {
+root: true
+name: "Tantros"
+requiresUnlock: false
+planet: tantros
+}
+requirements: [
+    copper/1700
+    lead/800
+]
+category: effect
+research: core-nucleus
