@@ -1,13 +1,13 @@
 planet: Serbulo
 captureWave: 16
-sector: 2
+sector: 30
 difficulty: 1
 research: {
 parent: hellZero
 objectives: [
     {
       type: SectorComplete
-      preset: groundZero
+      preset: hellZero
     }
   ]
 }

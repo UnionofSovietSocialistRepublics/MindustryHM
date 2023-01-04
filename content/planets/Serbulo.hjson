@@ -6,7 +6,7 @@ mesh: {
   type: NoiseMesh
   planet: Serbulo
   seed: 32
-  divisions: 4
+  divisions: 2
   color1: ee7b06
   color2: 8ffe09
   radius: 1.2
@@ -39,7 +39,7 @@ accessible: true
 
 updateLighting: true
 
-sectorSeed: 0
+sectorSeed: 10
 
 bloom: false
 

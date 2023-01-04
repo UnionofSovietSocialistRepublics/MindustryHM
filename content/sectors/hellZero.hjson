@@ -7,7 +7,7 @@ parent: Hive
 objectives: [
     {
       type: SectorComplete
-      preset: hellZero
+      preset: groundZero
     }
   ]
 }
