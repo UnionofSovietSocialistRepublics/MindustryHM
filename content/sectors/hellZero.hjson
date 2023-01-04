@@ -1,7 +1,4 @@
 planet: Serbulo
 captureWave: 10
 sector: 2
-difficulty: 4
-research: {
-  parent: core-shard
-}
+difficulty: 1

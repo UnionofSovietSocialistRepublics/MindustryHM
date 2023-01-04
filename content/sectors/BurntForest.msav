@@ -1,13 +1,4 @@
 planet: Serbulo
 captureWave: 10
 sector: 2
-difficulty: 4
-research: {
-parent: hellZero
-objectives: [
-    {
-      type: SectorComplete
-      preset: hellZero
-    }
-  ]
-}
+difficulty: 1
