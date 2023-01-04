@@ -62,5 +62,3 @@ defaultCore: core-shard
 parent: serpulo
 
 solarSystem: sun
-
-launchCandidates: []
