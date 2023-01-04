@@ -1,0 +1,11 @@
+planet: serpulo
+captureWave: 10
+sector: 6
+difficulty: 3
+research: {
+objectives: [
+    {
+      type: SectorComplete
+    }
+  ]
+}
