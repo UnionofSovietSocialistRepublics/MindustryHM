@@ -7,12 +7,14 @@ unitType: vela
 unitCapModifier: 40
 research: {
 root: true
-name: "Tantros"
+name: "Serbulo"
 requiresUnlock: false
-planet: tantros
+planet: Serbulo
 }
+researchCostMultiplier: 0
 requirements: [
     copper/1700
     lead/800
 ]
 category: effect
+
