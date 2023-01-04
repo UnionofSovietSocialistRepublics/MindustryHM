@@ -2,7 +2,7 @@ type: CoreBlock
 health: 12575
 itemCapacity: 15000
 size: 5
-unitType: Vela
+unitType: vela
 unitCapModifier: 40
 research: {
 root: true
