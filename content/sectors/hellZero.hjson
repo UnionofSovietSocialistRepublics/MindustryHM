@@ -1,12 +1,13 @@
-name: groundyes
 planet: serpulo
 captureWave: 10
-sector: 6
+sector: 169
 difficulty: 3
 research: {
+parent: fertile
 objectives: [
     {
       type: SectorComplete
+      preset: fertile
     }
   ]
 }
