@@ -7,8 +7,8 @@ mesh: {
   planet: Serbulo
   seed: 32
   divisions: 4
-  color1: 29302b
-  color2: 29302b
+  color1: ee7b06
+  color2: 8ffe09
   radius: 1.2
   octaves: 3
   persistence: 0.8
