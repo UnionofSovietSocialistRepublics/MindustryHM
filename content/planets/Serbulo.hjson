@@ -28,11 +28,11 @@ orbitSpacing: 5
 
 radius: 1
 
-minZoom: 2
+minZoom: 0.8
 
 drawOrbit: true
-sectorSize: 2
-SectorPreset: 2
+sectorSize: 5
+SectorPreset: 5
 generator: erekirPlanetGenerator
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
