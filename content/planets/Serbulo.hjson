@@ -31,7 +31,9 @@ radius: 1
 minZoom: 2
 
 drawOrbit: true
-
+sectorSize: 2
+SectorPreset: 2
+generator: erekirPlanetGenerator
 atmosphereRadIn: 0
 atmosphereRadOut: 0.3
 
