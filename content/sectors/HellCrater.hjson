@@ -1,0 +1,13 @@
+planet: Serbulo
+captureWave: 21
+sector: 2
+difficulty: 1
+research: {
+parent: hellZero
+objectives: [
+    {
+      type: SectorComplete
+      preset: BurntForest
+    }
+  ]
+}
