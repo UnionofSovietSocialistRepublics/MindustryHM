@@ -1,7 +1,7 @@
 planet: Serbulo
 captureWave: 30
 sector: 4
-difficulty: 1
+difficulty: 6
 research: {
 parent: hellZero
 objectives: [
