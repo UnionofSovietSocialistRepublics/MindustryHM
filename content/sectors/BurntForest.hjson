@@ -7,7 +7,7 @@ parent: hellZero
 objectives: [
     {
       type: SectorComplete
-      preset: hellZero
+      preset: hellzero
     }
   ]
 }
