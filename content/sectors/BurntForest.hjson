@@ -3,11 +3,11 @@ captureWave: 16
 sector: 1
 difficulty: 1
 research: {
-parent: hellzero
+parent: hell-zero
 objectives: [
     {
       type: SectorComplete
-      preset: hellzero
+      preset: hell-zero
     }
   ]
 }
