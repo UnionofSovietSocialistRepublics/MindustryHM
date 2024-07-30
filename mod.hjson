@@ -1,6 +1,10 @@
-name: "shm"
-displayName: "Serbulo-HARDMODE"
+name: "mindustryhm"
+displayName: "Mindustry hardmode"
 author: "Watermocules"
-description: "Have you ever think Serpulo is too easy? THINK AGAIN (or not, I can't force you) Serbulo mod is here offer you the hard mode version of campaign!"
-version: "1.25"
+description: "Revamp most campaign map. currently WIP"
+subtitle: "Rebuilt from the ground up!"
+version: "0.1"
 minGameVersion: "140"
+main: "hm.hm"
+java: true
+repo: Spore-Biometh-team/MindustryHM
