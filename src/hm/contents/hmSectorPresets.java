@@ -6,7 +6,7 @@ import static mindustry.content.Planets.*;
 
 public class hmSectorPresets{
     public static SectorPreset
-    groundZero, frozenForest, craters, fungalPass;
+    groundZero, frozenForest, craters, ruinousShores, fungalPass;
 
 
     public static void load(){
@@ -30,8 +30,13 @@ public class hmSectorPresets{
             difficulty = 4;
 
         }};
-        // fungalPass = new SectorPreset("fungalPass", serpulo, 21){{
-        //     difficulty = 4;
-        // }};
+
+        ruinousShores = new SectorPreset("ruinousShores", serpulo, 213){{
+            captureWave = 30;
+            difficulty = 3;
+        }};
+        fungalPass = new SectorPreset("fungalPass", serpulo, 21){{
+            difficulty = 4;
+        }};
     }
 }
